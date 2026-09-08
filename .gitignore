@@ -1,0 +1,44 @@
+# ==========================================
+# Entornos Virtuales y Dependencias
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Archivos Temporales de Python y Compilados
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ==========================================
+# Checkpoints y Temporales de Jupyter
+# ==========================================
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ==========================================
+# Archivos del Sistema Operativo
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# Configuración de IDEs y Editores
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
